@@ -1,0 +1,3 @@
+## API Used
+This project uses the [ExchangeRate API](https://www.exchangerate-api.com/) to fetch real-time foreign exchange rates.  
+Endpoint example: `https://api.exchangerate-api.com/v4/latest/USD`
